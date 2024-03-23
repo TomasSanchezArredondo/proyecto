@@ -1,3 +1,5 @@
+#participantes: Jhomar Mendieta, Damian Torres y Tomas Sanchez Arredondo
+
 # Ideas del proyecto
 
 ## App de organizacion de eventos
